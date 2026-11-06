@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.bak
+*.dwl
+*.dwl2
+*.ac$
+*.sv$
+__pycache__/
+*.pyc
+.venv/
+.deps/
+tmp/
+logs/
+*.gcode
+*.gco
+# Fontes CAD, STEP, STL e 3MF não são ignoradas globalmente.

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "unidade_comprimento": "mm",
+  "estado": "proposta_nao_validada",
+  "carretel_diametro_referencia": 47.5,
+  "curso_referencia": 14.5,
+  "rotor_por_volta_manivela_referencia": 5,
+  "manivela_entre_eixos_referencia": 55,
+  "excentricidade_derivada_proposta": 7.25,
+  "eixo_principal_diametro": null,
+  "eixo_manivela_diametro": null,
+  "par_engrenagens": null,
+  "rolamentos": null,
+  "folga_articulacoes": null,
+  "compensacao_furos": null,
+  "observacao": "Referências de produtos diferentes; não comprovam compatibilidade. Curso simples = 2 × excentricidade; confirmar no CAD."
+}
